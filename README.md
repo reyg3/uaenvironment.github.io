@@ -21,6 +21,8 @@ The Technical Research Applications Development (TRAD) is a group of technology 
 
 TRAD is led by [Rey Granillo](https://github.com/reyg3) Director of Technology and Research & Development Engineering, [Leland Boeman](https://github.com/lboeman) Research & Development Software Engineer, and [Thomas Weiss](https://github.com/tweissaz) Research & Development Systems Engineer.
 
+TRAD is housed within the [Arizona Institute for Resilience (AIR)](https://air.arizona.edu) at the University of Arizona, Arizona's research intensive (R1) land-grant university established in 1885, and the first four-year public university in the state to be federally recognized as a Hispanic Serving Institute (HSI).
+
 ### Our proficiencies
 - Research & Development / Proof of Concept
   - Research-focused software development
@@ -186,6 +188,8 @@ managers, and EXPLORE opportunities for aggregation, management, visualization, 
 
 ## Technology Transfer
 
+TRAD is always seeking opportunities to expand our team knowledge and partner with new entities that help us advance our work and future opportunities.
+
 >### **National Science Foundation Innovation Corps (NSF I-Corps) Training Program**
 > The U.S. National Science Foundation’s Innovation Corps (I-Corps™) program is an immersive, entrepreneurial training program that facilitates the transformation of invention to impact. This immersive, seven-week experiential training program prepares scientists and engineers to extend their focus beyond the university laboratory — accelerating the economic and societal benefits of NSF-funded and other basic research projects that are ready to move toward commercialization. Visit the [NSF's I-Corps website](https://new.nsf.gov/funding/initiatives/i-corps) for more information.
 >#### **Desert and Pacific Regional Hub 2023 - Cohort 6 - Fire Data Dynamics**
@@ -193,17 +197,15 @@ managers, and EXPLORE opportunities for aggregation, management, visualization, 
 
 <br />
 
-## Upcoming Projects
+## Projects
 
->### **Biosphere 2 Remote Sensing**
+>### Upcoming
+>
+>#### **Biosphere 2 Remote Sensing**
 > AIR's TRAD will be working closely with researchers at Biosphere 2 (B2) on the deployment of a LoRaWAN remote sensing gateway and the development and deployment of custom environmental remote sensing hardware within B2's biomes. This work will test sensor and enclosure designs in preparation for potential field deployment at research sites around the globe.
 >
->### **ALERTArizona Fire Camera Network**
+>#### **ALERTArizona Fire Camera Network**
 > In collaboration with [ALERTWest](https://www.alertwest.org/), AIR's TRAD will facilitate and maintain a network of environmental monitoring equipment to include cameras designed to detect wildfires using an Artificial Intelligence (AI) model built by CAL FIRE and ALERTCalifornia. This early warning system is backed by a 24/7 operations center supporting users and provides human verification for every AI detection.
-
-<br />
-
-## Projects
 
 >### **Fire Data Dynamics**
 >With data from the National Interagency Fire Center's (NIFC) Southwest Coordination Center (SWCC), and with funding from the University of Arizona's Technology and Research Initiative Fund (TRIF), we developed a fire data dashboard prototype designed to be used by and inform decision makers during fire events. Using data from past fire events in Arizona and New Mexico, our dashboard displays fire occurrences and their locations, fire burn perimeters (when available), and relevant data from Remote Automated Weather Stations (RAWS) during those fire events. The current prototype also allows stakeholders to export this historical data for use with their own analysis. In addition, new features are being developed to incorporate a live fire viewer, perform predictive machine learning analysis for determining fire weather and occurrence likelihood, and incorporating Weather Research & Forecasting Model (WRF) to inform decision makers of the impact weather could have during fire events. 
